@@ -1,5 +1,5 @@
 # 🎮 Simon Says Game (JavaScript)
-# 🎮 Live Demo: https://simon-says-ss.netlify.app/
+# 🎮 Live Demo: https://sumitsaini1.github.io/Demon-Says-Game1/
 
 A simple **Simon Says memory game** built with **HTML, CSS, and JavaScript**.  
 The game generates a sequence of colors, and the player must repeat the sequence correctly to progress to the next level.  
